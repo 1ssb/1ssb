@@ -4,6 +4,8 @@ AI PhD candidate at the **Australian National University** (expected 2027), work
 generative, multimodal, and evaluation systems for decision-making under uncertainty.
 My research builds generative world models and spatial reasoning for perception and
 planning, alongside methods for evaluating what learned systems actually get right.
+My thesis, *Into the Unknown*, develops generative posteriors for reasoning about
+spatio-semantic uncertainty, advised by Rahul Shome, Dylan Campbell, and Stephen Gould.
 
 **Research**
 - *Believing is Seeing: Unobserved Object Detection using Generative Models* — CVPR 2025 · [project](https://1ssb.github.io/UOD/)
