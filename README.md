@@ -13,7 +13,7 @@ spatio-semantic uncertainty, advised by Rahul Shome, Dylan Campbell, and Stephen
 - *MatterDoor: Sampling Zero-shot Spatio-semantic Priors using Generative Models* — under review; arXiv:2510.11014; presented at the RSS 2026 FM4RoboPlan workshop
 
 **Open-source software**
-- [TorchKAN](https://github.com/1ssb/TorchKAN) — PyTorch Kolmogorov–Arnold Networks (spline, Legendre, Chebyshev, and convolutional variants) with post-training quantisation, CUDA execution, and Integrated-Gradients interpretability (190+ stars).
+- [TorchKAN](https://github.com/1ssb/TorchKAN) — PyTorch Kolmogorov–Arnold Networks (spline, Legendre, Chebyshev, and convolutional variants) with post-training quantisation, CUDA execution, and Integrated-Gradients interpretability.
 - [Mangroves](https://github.com/1ssb/Mangroves) — Python package for depth-based hierarchical data management, type-aware ingestion, and CPU–GPU tensor movement.
 - [TuringTree](https://github.com/1ssb/TuringTree) — vectorless, on-device RAG (Ollama + Qwen) with 0–100 confidence scoring and abstention; co-developed by a four-person team during the Microsoft Global Intern Hackathon.
 
