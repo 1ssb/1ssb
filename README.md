@@ -9,7 +9,7 @@ spatio-semantic uncertainty, advised by Rahul Shome, Dylan Campbell, and Stephen
 
 **Research**
 - *Believing is Seeing: Unobserved Object Detection using Generative Models* — CVPR 2025 · [project](https://1ssb.github.io/UOD/)
-- *FlatLands: Generative Floormap Completion from a Single Egocentric View* — ECCV 2026
+- *FlatLands: Generative Floormap Completion from a Single Egocentric View*
 - *MatterDoor: Sampling Zero-shot Spatio-semantic Priors using Generative Models* — under review; arXiv:2510.11014; presented at the RSS 2026 FM4RoboPlan workshop
 
 **Open-source software**
